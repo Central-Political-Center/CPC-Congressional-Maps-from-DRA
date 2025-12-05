@@ -1,5 +1,6 @@
 | State     | Composition  | DRA Link                                                                                      |
 | --------- | ------------ | --------------------------------------------------------------------------------------------- |
+| California | 48D–4R        | [View Map](https://davesredistricting.org/maps#viewmap::67663af0-5a22-4616-8b9e-e6e3c449aad5) |
 | Colorado | 8D–0R        | [View Map](https://davesredistricting.org/maps#viewmap::0517bacd-2648-4b16-8edb-c8a511ba74b4) |
 | Illinois | 15D–2R        | [View Map](https://davesredistricting.org/maps#viewmap::8c4352f4-2b67-49f4-a386-b360c0b89b46) |
 | Illinois 2.0 | 15D–2R        | [View Map](https://davesredistricting.org/maps#viewmap::ed494d66-1bc3-4208-a898-65347bd5a695) |
