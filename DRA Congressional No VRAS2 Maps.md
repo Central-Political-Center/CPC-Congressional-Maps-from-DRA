@@ -5,3 +5,4 @@
 | Louisiana | 6R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::8a6a8fe0-9540-4894-9b8e-b6b4a84f4d03) |
 | South Carolina | 7R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::44b6eb67-a6af-48fb-a6d2-9eb31f34d352) |
 | Tennessee | 9R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::6d89f7ae-1af3-4992-9e2b-b6e634d73aa2) |
+| Virgnia | 10D–1R        | [View Map](https://davesredistricting.org/maps#viewmap::cdf2e41f-7b4f-4640-9aec-ce8d7638f5bf) |
